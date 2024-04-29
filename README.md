@@ -1,8 +1,8 @@
 # Lab-3-Railway-Reservation
 
-NAME : ALIYA SHEEMA 
+NAME : DHARSHINIYAA KS
 
-REGISTER NUMBER : 212223230011
+REGISTER NUMBER : 212223100004
 
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
